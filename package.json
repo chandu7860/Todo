@@ -1,0 +1,19 @@
+{
+  "name": "odd-tomatoes-vs-rotten-tomatoes-cnn-classifier",
+  "version": "1.0.0",
+  "description": "Convolutional Neural Network to classify images as either odd-tomatoes or rotten-tomatoes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Narapureddy-Srikanth/Odd-tomatoes-vs-Rotten-tomatoes-CNN-Classifier.git"
+  },
+  "author": "Narapureddy Srikanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Narapureddy-Srikanth/Odd-tomatoes-vs-Rotten-tomatoes-CNN-Classifier/issues"
+  },
+  "homepage": "https://github.com/Narapureddy-Srikanth/Odd-tomatoes-vs-Rotten-tomatoes-CNN-Classifier#readme"
+}
